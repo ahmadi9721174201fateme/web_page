@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    direction:rtl;
+    
+}
+.name{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.box_flex{
+    display: flex;
+    justify-content: space-between;
+
+}
